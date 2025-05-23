@@ -1,0 +1,2 @@
+source D:/esp32 codes/bluetooth_spp1/build/gdbinit/symbols
+source D:/esp32 codes/bluetooth_spp1/build/gdbinit/connect
